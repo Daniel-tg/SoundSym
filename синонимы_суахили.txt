@@ -1,0 +1,42 @@
+angular: kona, kipembe, donge, mwamba
+round: pande zote, mviringo, kubinuka
+bad: baya, masikini, gonjwa, benibeni, bovu, dosari, duni, bahili
+good: zuri, vizuri, baidhati, mrembo, bora, kuridhisha, dhati, adili, kufaa
+cold: baridi, kali, waliohifadhiwa
+hot: moto, bidii, uchu, kunjufu, joto
+complex: mtataniko, matata, mtamaduni, mahuluti, mtataniko, hila
+simple: mboga, mfuto, sahali, rahisi, desturi, kimajumui, bua, hafifu
+cowardly: oga, dhaifu
+brave: kishujaa, kishupavu, muungwana, kutisha, gwiji
+dangerous: hatari, hofu, kuumiza, kutisha, mno
+secure: salama, madhubuti, halali, mwafaka
+dark: eusi, aswadi, mashaka
+luminous: nuru, nadhifu, adili
+difficult: mazonge, gumu, mahututi, onevu, nyonge, thakili
+easy: bua, dhaifu, furahifu, rahimu, chache, mbuyembuye, hewa, kitoto
+evil: bovu, buka, kiovu, kikavu, hasira, gumu, baya, kubabua
+benign: zuri, fadhili, bulibuli, adili, karimu, anana
+faded: kame, eusi, kuchujuka, uchungu
+bright: angavu, chale, ajabu, lonyo
+feeble: ajizi, dhaifu, nyonge
+strong: fahali, shadidi, nguvu, changamfu
+masculine: kiume, hodari
+feminine: kike
+passive: tepetevu, kavu, bua, ajizi
+active: amilifu, kusisimua, bidii, mwafaka, makuu, tendaji
+quiet: kete, kiada, mbuyembuye, bete, bapa
+loud: kurindima, ghururi
+rough: jeuri, chafu, bichi, gumu, kinyama
+tender: mbuyembuye, adilifu, kisukari, embamba
+sad: fufumavu, huzuni, kusikitisha, dhalili, pole
+joyful: changamfu, furahifu, hewa, chale, shupavu
+short: bete, fupi, dogo, adimu
+long: lonjo, refu, embamba
+slow: kokotevu, ajizi, kwezi, vivu
+quick: chapuchapu, epesi, nabihi, fupi
+small: dogo, bete, dhaifu
+big: kuza, kubwa, aali, refu, pana
+smooth: rovyo, pole, batabata, shupavu, telezi, eupe, ovyo
+rough_or_not_smooth: jeuri, kinundunundu, aushi, chembechembe, gumu, timutimu
+ugly: dosari, bahili
+beautiful: bora, baidhati, muungwana, azizi, angavu
